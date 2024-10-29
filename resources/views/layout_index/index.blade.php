@@ -52,7 +52,7 @@
                   <a class="nav-link" href="about.html"> About </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="{{route('shop')}}"> Shop </a>
+                  <a class="nav-link" href=""> Shop </a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="glass.html"> Glasses </a>
@@ -165,9 +165,10 @@
               </h2>
             </div>
             <p>
-              It is a long established fact that a reader will be distracted by the readable content of a page when
-              looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of
-              letters,
+                Welcome to SGlass, your premier destination for stylish and high-quality eyewear.
+                Our store offers a diverse collection of frames, sunglasses, and prescription glasses,
+                carefully curated to suit all tastes and preferences. Whether you're looking for timeless
+                classics or the latest trends, we have the perfect pair to complement your look.
             </p>
             <a href="">
               Read More
@@ -328,32 +329,28 @@
               <a class=" active" id="QTab1Link" data-toggle="tab" href="#qTab1" role="tab" aria-controls="qTab1" aria-selected="true">
                 <h6 id="QTab1Link" data-toggle="tab" href="#qTab1" role="tab" aria-controls="qTab1" aria-selected="true">
                   <span>01</span>
-                  It is a long established fact that a reader will be distracted
-                </h6>
+                  Durability – Made with high-quality materials for long-lasting use                </h6>
               </a>
             </li>
             <li class="">
               <a class="" id="QTab2Link" data-toggle="tab" href="#qTab2" role="tab" aria-controls="qTab2" aria-selected="false">
                 <h6 id="QTab2Link" data-toggle="tab" href="#qTab2" role="tab" aria-controls="qTab2" aria-selected="false">
                   <span>02</span>
-                  by the readable content of a page when looking at its
-                </h6>
+                  Lightweight – Designed for maximum comfort throughout the day.                </h6>
               </a>
             </li>
             <li class="">
               <a class="" id="QTab3Link" data-toggle="tab" href="#qTab3" role="tab" aria-controls="qTab3" aria-selected="false">
                 <h6 id="QTab3Link" data-toggle="tab" href="#qTab3" role="tab" aria-controls="qTab3" aria-selected="false">
                   <span>03</span>
-                  layout. The point of using Lorem Ipsum is that it has a
-                </h6>
+                  UV Protection – Provides superior protection from harmful UV rays.                </h6>
               </a>
             </li>
             <li class="">
               <a class="" id="QTab4Link" data-toggle="tab" href="#qTab4" role="tab" aria-controls="qTab4" aria-selected="false">
                 <h6 id="QTab4Link" data-toggle="tab" href="#qTab4" role="tab" aria-controls="qTab4" aria-selected="false">
                   <span>04</span>
-                  more-or-less normal distribution of letters,
-                </h6>
+                  Stylish Design – Combines modern trends with timeless elegance.                </h6>
               </a>
             </li>
           </ul>
@@ -443,12 +440,13 @@
         </div>
         <div class="detail-box">
           <p>
-            It is a long established fact that a reader will be distracted by the readable content of a page when
-            looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of
-            letters, <br>
-            It is a long established fact that a reader will be distracted by the readable content of a page when
-            looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of
-            letters,
+            Upgrade your style with our exclusive collection of fashionable eyewear!
+            Whether you're looking for bold statement frames or sleek, minimalist designs, we have the perfect
+            pair to elevate your look. Our fashion-forward glasses are designed to blend style and functionality,
+            offering you the latest trends without compromising on comfort or quality.
+            Shop now to find the ideal glasses that match your unique personality. With a variety of colors, shapes,
+            and materials to choose from, you're sure to discover the perfect accessory to complement any outfit.
+            Don’t miss out on our trendy designs—step up your fashion game today with our stylish eyewear collection!
           </p>
           <a href="">
             Book Now
@@ -472,10 +470,9 @@
       <div class="box">
         <div class="detail-box">
           <p>
-            There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in
-            some form, by injected humour, or randomised words which don't look even slightly believable.There are many
-            variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by
-            injected humour, or randomised words which don't look even slightly believable.
+            "I absolutely love my new glasses from SGlass! Not only are they incredibly stylish, but they’re
+            also super comfortable to wear all day. The quality is outstanding, and I’ve received so many compliments
+            on them. Plus, the lenses provide excellent clarity and UV protection. I couldn’t be happier with my purchase!"
           </p>
         </div>
         <div class="client-id">
