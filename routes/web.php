@@ -15,13 +15,14 @@ use Illuminate\Support\Facades\Route;
 */
 
 
-Route::get('/', function () {
-    return view('welcome');
-});
 
-Route::get('/dashboard', function () {
-    return view('dashboard');
-})->middleware(['auth', 'verified'])->name('dashboard');
+Route::get('/', function () {
+    return view('layout_index.index');
+})->name('index ');
+
+Route::get('/shop', function () {
+    return view('shop');
+})->name('index ');
 
 Route::get('/login', function () {
     return view('auth.login');  // Certifique-se de que o caminho da view esteja correto, geralmente está em 'auth/login.blade.php'
